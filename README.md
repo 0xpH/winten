@@ -23,6 +23,7 @@
 ## Known Error
 ### Issue
 - The error might occur due to CredSSP encryption oracle remediation.
+![image](https://github.com/0xpH/winten/assets/119293469/6c22ca93-67cb-4d46-a028-cf37d6fa29e0)
 
 ### Affected Systems
 - Windows 10 Home Single Language
