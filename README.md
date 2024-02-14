@@ -12,15 +12,17 @@
 8. Once the installation is complete, close the console.
 9. Turn off, go back to the Recovery Menu, choose "Boot from Hard Drive," and turn on the server.
 10. Navigate to the Access menu and launch the Recovery Console.
-11. Set the IP Address; it should be the same as on Digital Ocean.
+11. Configure the IP Address to match the one associated with your hosting provider, whether it's Digital Ocean or another service. Go to Control Panel\Network and Internet\Network Connections, ensure that Ethernet Instance 0 is enabled, and update the IP address accordingly.
+
+![image](https://github.com/0xpH/winten/assets/119293469/e88a62b5-66f1-45d5-a96e-d86c4aa75b03)
 
 ## How to Log In:
 
 1. Open Remote Desktop Connection on your desktop.
-2. IP Address: 5000 (we use port 5000), username: WhatUpTime.com, and password: P@ssword64.
+2. IP Address: 5000 (we use port 5000) or no port at all, username: `WhatUpTime.com`, and password: `P@ssword64`.
 
 
-## Known Error
+## Known Error:
 ### Issue
 - The error might occur due to CredSSP encryption oracle remediation.
 ![image](https://github.com/0xpH/winten/assets/119293469/6c22ca93-67cb-4d46-a028-cf37d6fa29e0)
