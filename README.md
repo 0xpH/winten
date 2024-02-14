@@ -19,6 +19,24 @@
 1. Open Remote Desktop Connection on your desktop.
 2. IP Address: 5000 (we use port 5000), username: WhatUpTime.com, and password: P@ssword64.
 
+
+## Known Error
+### Issue
+- The error might occur due to CredSSP encryption oracle remediation.
+
+### Affected Systems
+- Windows 10 Home Single Language
+- Windows 11
+
+### Resolution
+To resolve this issue, follow these steps:
+
+1. Download [Microsoft Remote Desktop ](https://apps.microsoft.com/detail/9WZDNCRFJ3PS) from the Microsoft Store or official Microsoft website.
+2. Install the Microsoft Remote Desktop on your system.
+
+This should address the problem and allow for seamless remote desktop connections on the specified Windows versions.
+
+
 ## Mirror:
 [Windows on Cloud](https://windows-on-cloud.wansaw.com/)
 
